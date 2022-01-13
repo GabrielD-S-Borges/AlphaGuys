@@ -1,0 +1,28 @@
+body, html{
+    font-family: 'Spartan', sans-serif;
+    
+
+}
+
+header{
+
+    background: rgba(110, 107, 114, 0.692);
+    box-shadow: 0 10px 30px 0px #252525ee ;
+    
+    
+}
+
+.logo{
+
+    margin: 2px 15px;
+    width: 100px;
+}
+
+h1{
+
+    font-weight: bold;
+    font-size: 40px;
+    color: #000000;
+    text-align: center;
+    margin-top: 35px;
+}
